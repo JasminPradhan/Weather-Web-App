@@ -1,3 +1,15 @@
+# :cloud: Weather-App
+--------------------------------
+A Web App,built with reactjs and OpenWeather api displays the current weather of the place searched
+----------------
+##Screeshots desmonstrating the app
+![Screenshot (164)](https://user-images.githubusercontent.com/98604838/209478561-6098d9f2-4ac1-4b82-a00d-a154e3acf8d9.png)
+
+### 
+![Screenshot (166)](https://user-images.githubusercontent.com/98604838/209478568-6936f1ee-c9f1-4aee-ac23-19a8cb7a6b9a.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
