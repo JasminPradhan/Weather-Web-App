@@ -2,20 +2,26 @@
     display: flex;
     // align-items: center;
     justify-content: center;
-    background-color: rgb(188, 181, 236);
+    background-color: rgba(169, 192, 194, 0.475);
     width: 30rem;
+    padding-bottom: 4rem;
+    margin-top: 2rem;
     // margin: auto;
     .search-bar{
         // position: absolute;
         padding-top: 2rem;
+        border: none;
+
         input{
-            width:20rem;
+            width:22rem;
             height: 2rem;
+            border: none;
+            border-radius: 4px;
         }
         .btn{
             position: relative;
             top:-1.9rem;
-            left: 18.3rem;
+            left: 20.5rem;
             button{
                 // height: 2rem;
                 // width: 2rem;
